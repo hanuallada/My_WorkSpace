@@ -4,3 +4,4 @@ Tuples are immutable and collection of ordered data elements by creating element
 ![[Pasted image 20260912171245.png]]
 ![[Pasted image 20260912172846.png]]
 ![[Pasted image 20260912173953.png]]
+![[Pasted image 20260912233454.png]]
